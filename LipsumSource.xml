@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lipsumComponents>
+  <normies>
+    <comp No="0">quisque</comp>
+    <comp No="1">luctus</comp>
+    <comp No="2">ligula</comp>
+    <comp No="3">vulputate</comp>
+    <comp No="4">hendrerit</comp>
+    <comp No="5">tortor</comp>
+    <comp No="6">lectus</comp>
+    <comp No="7">placerat</comp>
+    <comp No="8">euismod</comp>
+    <comp No="9">ultrices</comp>
+    <comp No="10">fusce</comp>
+    <comp No="11">efficitur</comp>
+    <comp No="12">laoreet</comp>
+    <comp No="13">placerat</comp>
+    <comp No="14">nisi</comp>
+    <comp No="15">porta</comp>
+    <comp No="16">vivamus</comp>
+    <comp No="17">molestie</comp>
+    <comp No="18">vitae</comp>
+    <comp No="19">eget</comp>
+    <comp No="20">imperdiet</comp>
+    <comp No="21">tempus</comp>
+    <comp No="22">faucibus</comp>
+  </normies>
+  <shorties>
+    <comp No="0">sit</comp>
+    <comp No="1">non</comp>
+    <comp No="2">ante</comp>
+    <comp No="3">nam</comp>
+    <comp No="4">id</comp>
+    <comp No="5">qui</comp>
+    <comp No="6">ac</comp>
+    <comp No="7">hoc</comp>
+    <comp No="8">si</comp>
+    <comp No="9">ut</comp>
+    <comp No="10">sed</comp>
+    <comp No="11">quis</comp>
+    <comp No="12">mi</comp>
+    <comp No="13">et</comp>
+    <comp No="14">ut</comp>
+    <comp No="15">due</comp>
+    <comp No="16">est</comp>
+    <comp No="17">in</comp>
+    <comp No="18">vel</comp>
+    <comp No="19">a</comp>
+    <comp No="20">meo</comp>
+    <comp No="21">tua</comp>
+    <comp No="22">ex</comp>
+  </shorties>
+  <longies>
+    <comp No="0">malesuada</comp>
+    <comp No="1">sollicitudin</comp>
+    <comp No="2">consectetur</comp>
+    <comp No="3">pellentesque</comp>
+    <comp No="4">vestibulum</comp>
+    <comp No="5">curabitur</comp>
+    <comp No="6">adipiscing</comp>
+    <comp No="7">tristique</comp>
+    <comp No="8">suspendisse</comp>
+    <comp No="9">condimentum</comp>
+    <comp No="10">accumsan</comp>
+    <comp No="11">animadverto</comp>
+    <comp No="12">chirographum</comp>
+    <comp No="13">commessationis</comp>
+    <comp No="14">concupiscentia</comp>
+    <comp No="15">incorruptus</comp>
+    <comp No="16">testimonium</comp>
+    <comp No="17">rudimentum</comp>
+    <comp No="18">quandoquidem</comp>
+    <comp No="19">omnipotens</comp>
+    <comp No="20">levamentum</comp>
+    <comp No="21">improvidus</comp>
+    <comp No="22">facillimus</comp>
+  </longies>
+  <comp length="normal">blandit</comp><comp length="normal">augue</comp><comp length="normal">nisl</comp><comp length="normal">urna</comp><comp length="normal">arcis</comp>
+  <comp length="normal">tempus</comp><comp length="normal">enim </comp><comp length="normal">nulla</comp><comp length="normal">tellus</comp><comp length="normal">felis</comp>
+  <comp length="normal">ligula</comp><comp length="normal">massa</comp><comp length="normal">justo</comp><comp length="normal">risus</comp><comp length="normal">dictum</comp>
+  <comp length="normal">tempora</comp><comp length="normal">posuere</comp><comp length="normal">odio</comp><comp length="long">ullamcorper</comp>
+  <comp length="long">elementum</comp><comp length="long">condimentum</comp><comp length="long">curabitur</comp><comp length="long">scelerisque</comp>
+  <comp length="short">erat</comp><comp length="short">uno</comp><comp length="short">orci</comp><comp length="short">dui</comp><comp length="short">sit</comp>
+  <comp length="short">non</comp><comp length="short">ante</comp><comp length="short">nam</comp><comp length="short">id</comp><comp length="short">qui</comp>
+  <comp length="short">ac</comp><comp length="short">hoc</comp><comp length="short">si</comp><comp length="short">ut</comp><comp length="short">due</comp>
+  <comp length="short">sed</comp> <comp length="short">quis</comp><comp length="short">mi</comp><comp length="short">et</comp><comp length="short">ut</comp>
+  <comp length="short">est</comp><comp length="short">in</comp><comp length="short">vel</comp><comp length="short">a</comp><comp length="short">meo</comp>
+  <comp length="short">tua</comp><comp length="short">ex</comp>
+</lipsumComponents>
